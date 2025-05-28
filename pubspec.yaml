@@ -1,0 +1,70 @@
+name: netflix_clone
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/netflixlogo.png
+    - assets/images/hit.jpg
+    - assets/images/trending1.png
+    - assets/images/trending2.png
+    - assets/images/trending3.png
+    - assets/images/trending4.png
+    - assets/images/trending5.jpg
+    - assets/images/trending6.png
+    - assets/images/trending7.jpg
+    - assets/images/trending8.jpg
+    - assets/images/trending9.jpg
+    - assets/images/trending10.jpg
+    - assets/images/trending11.jpg
+    - assets/images/trending12.jpg
+    - assets/images/trending13.jpg
+    - assets/images/trending14.jpg
+    - assets/images/top1.jpg
+    - assets/images/top2.jpg
+    - assets/images/top3.jpg
+    - assets/images/top4.jpg
+    - assets/images/top5.jpg
+    - assets/images/top6.jpg
+    - assets/images/top7.jpg
+    - assets/images/top8.jpg
+    - assets/images/continue1.jpg
+    - assets/images/continue2.jpg
+    - assets/images/continue3.jpg
+    - assets/images/continue4.jpg
+    - assets/images/continue5.jpg
+    - assets/images/continue6.jpg
+    - assets/images/tvshow1.jpg
+    - assets/images/tvshow2.jpg
+    - assets/images/tvshow3.jpg
+    - assets/images/tvshow4.jpg
+    - assets/images/tvshow5.jpg
+    - assets/images/tvshow6.jpg
+    - assets/images/tvshow7.jpg
+    - assets/images/tvshow8.jpg
+    - assets/images/tvshow9.jpg
+    - assets/images/tvshow10.jpg
+    - assets/images/tvshow11.jpg
+    - assets/images/tvshow12.jpg
+    - assets/images/tvshow13.jpg
+    - assets/images/tvshow14.jpg
+    - assets/images/tvshow15.jpg
+    - assets/images/tvshow16.jpg
+    - assets/images/tvshow17.jpg
+    - assets/images/tvshow18.jpg
+    - assets/images/tvshow19.jpg
+    - assets/images/tvshow20.jpg
