@@ -48,8 +48,8 @@ class SearchScreen extends StatelessWidget {
       ),
     );
   }
-
-  Widget _buildMovieCard(String imagePath, String movieName) {
+//updated widget 
+  Widget _buildMovieCard(String imagePath, String movieName){
     return Column(
       children: [
         Expanded(
@@ -72,3 +72,5 @@ class SearchScreen extends StatelessWidget {
     );
   }
 }
+
+//new push update 
